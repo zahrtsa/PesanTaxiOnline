@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Fariz",
+        "noHP": "123",
+        "jenis": "Alphard.<br",
+        "jarak": "22",
+        "total_tagihan": "70,000"
+    },
+    {
+        "nama": "Fariz",
+        "noHP": "123",
+        "jenis": "Alphard.<br",
+        "jarak": "22",
+        "total_tagihan": "70,000"
+    },
+    {
+        "nama": "",
+        "noHP": "",
+        "jenis": "",
+        "jarak": "",
+        "total_tagihan": "0"
+    },
+    {
+        "nama": "",
+        "noHP": "",
+        "jenis": "",
+        "jarak": "",
+        "total_tagihan": "0"
+    }
+]
